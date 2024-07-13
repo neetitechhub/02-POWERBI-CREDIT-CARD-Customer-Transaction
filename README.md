@@ -1,2 +1,9 @@
 # Credit-Card-Customer-Transaction
-Credit Card Customer &amp; Transaction
+
+**Credit Card Customer &amp; Transaction**
+
+
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/2f3abe7c-f5c0-4966-af17-1d2b07a9e56f">
+
+<img width="654" alt="image" src="https://github.com/user-attachments/assets/53854a77-54b0-4a38-885e-f45e970e1ed2">
+
