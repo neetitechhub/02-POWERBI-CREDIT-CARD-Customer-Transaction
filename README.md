@@ -2,7 +2,7 @@
 
 **Credit Card Customer &amp; Transaction**
 
-This is my fourth project while I was moving my career towards data analytics.
+This was my fourth project as I transitioned into a career in data analytics.
 
 RESOURCES - https://www.youtube.com/watch?v=8XoDVwWdaqI
 
